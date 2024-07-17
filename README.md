@@ -1,5 +1,13 @@
-## Hi there 👋
+# 💫 About me
+- 🌱 I’m currently learning:
+  Learning and Building decentralised Blockchain web applications.
+  
+- 👯 I’m looking to collaborate on:
+  FullStack Projects || FullStack Blockchain web Projects
 
+# 💻 Tech Stack:
+Ethereum, Solidity, Ethers.js, Hardhat.
+HTML, CSS, JavaScript, Expressjs, Reactjs, Bootstrap, Node jsMongoDB, Java, c++.
 <!--
 **harsh-bhati/harsh-bhati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
