@@ -1,15 +1,16 @@
 # 💫 About me
 - 🌱 I’m currently learning:<br>
-  Learning and Building Full Stack web applications.
+  Learning and Building GenAI Full Stack web applications.
   
 - 👯 I’m looking to collaborate on:<br>
-  FullStack Projects || FullStack Blockchain web Projects
+  Software development project that creates value to people.
 
 # 💻 Tech Stack:<br>
 HTML, CSS, JavaScript, Express, React, Bootstrap.<br>
 NodeJS, MySQL, MongoDB.<br>
 Java, C++.<br>
 Ethereum, Solidity, Ethers.js, Hardhat.<br>
+langchain, langGraph, OpenAI, Gemini, AI Agents
 <!--
 **harsh-bhati/harsh-bhati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
