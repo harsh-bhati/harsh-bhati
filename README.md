@@ -4,11 +4,14 @@
   
 - 👯 I’m looking to collaborate on:<br>
   Software development project that creates value to people.
-
+  <br>
+  Done more than 700 Data Structure & Algorithm Questions.<br>
+  Good at Object Oriented Programming.<br>
+  Java & Python is my strength.
 # 💻 Tech Stack:<br>
 HTML, CSS, JavaScript, Express, React, Bootstrap.<br>
 NodeJS, MySQL, MongoDB.<br>
-Java, C++.<br>
+Python, Java, C++.<br>
 Ethereum, Solidity, Ethers.js, Hardhat.<br>
 langchain, langGraph, OpenAI, Gemini, AI Agents
 <!--
